@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**vhaefeli/vhaefeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vanessa. I have an engineering degree in microtechnology but it was mainly at the 42Lausanne school that I learned to code.
 
-Here are some ideas to get you started:
+I learned C, C++ and for the last projet Typescript and a lot more.
+I just also started to learn to use Angular and I find it very nice to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a preference for the frontend which speaks more to my artist side. But I also like to solve problems. In our Transcendence project https://github.com/vhaefeli/42_transcendence I loved doing the front of the login and the game pages, but also doing the calculations behind it. (the drawing of the arcade machine 🎮 is by Michèle https://github.com/Michele-Reymond 💜)
+
+I look forward to creat my websites with something other than Wordpress.
+
+I have worked mare than 15 years in the watch industry and now I'm looking for a job that has more sens for me. I want to create and do things that help people and are more environmentally friendly and sustainable.
+
+I particularly like talking to people and finding out what they really need to make their life easier.
